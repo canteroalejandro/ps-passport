@@ -1,8 +1,8 @@
 {
   "author": "Anatoliy Chakkaev <rpm1602@gmail.com>",
   "name": "ps-passport",
-  "description": "PassportJS integrated with Railway",
-  "version": "0.0.4",
+  "description": "PassportJS integrated with Railway, Modificado para Nano",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git@github.com:mayeskennedy/ps-passport.git"
